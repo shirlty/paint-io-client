@@ -36,8 +36,6 @@ const greet = new Message({
   mountPoint: statusPanel,
 });
 
-const displayUsers = 
-
 let username; // client username
 
 // initialize paint canvas
